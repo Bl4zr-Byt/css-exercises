@@ -8,12 +8,11 @@
   font-size: 36px;
 }
 
-.odd.third {
+.adjust-font-size{
   font-size: 24px;
 }
 
 #fourth {
-  background-color: #6bffa1;
-  font-size: 24px;
+  background-color: #6bffa1;;
   font-weight: bold;
 }
